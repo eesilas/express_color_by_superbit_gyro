@@ -1,5 +1,6 @@
 {
     "name": "express_color_by_superbit_gyro",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
